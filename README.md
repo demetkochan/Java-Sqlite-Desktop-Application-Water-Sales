@@ -1,6 +1,6 @@
 # Java Sql Desktop Application Water-Sales
 
-Uygulama Açıklaması
+Su satış programı ile, müşterilerin su siparişlerini, teslimat durumlarını kolay bir şekilde takip edebilirsiniz. Uygulamada yeni müşteri ekleme, silme ve bilgileri güncelleme işlemleri yapılabilir. Ayrıca müşterilerin siparişleri takip edilebilir ve teslimat durumları güncellenebilir. Kayıtlı olmayan müşteriler sisteme kolay bir şekilde eklenebilir ve siparişleri alınabilir.
 
 ## Kullanılan Diller ve Yetenekler
 
